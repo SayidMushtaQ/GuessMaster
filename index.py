@@ -3,7 +3,7 @@ import random
 random_num = random.randint(1,10);
 user_num = -1
 guess = 0;
-print(random_num)
+# print(random_num) #Hack the code 🫠
 
 while(user_num != random_num):
     guess+=1;
